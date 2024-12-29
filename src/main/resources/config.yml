@@ -1,0 +1,16 @@
+commands:
+  shops:
+    rang1: "shop {player} boutique1"
+    rang2: "shop {player} boutique2"
+    rang3: "shop {player} boutique3"
+  menu:
+    rang1: "menu {player} menu1"
+    rang2: "menu {player} menu2"
+    rang3: "menu {player} menu3"
+
+# Placeholder : {player} -> correspond au pseudo du joueur.
+# Placeholder : {rank} -> qui correspond au rang du joueur.
+
+# Permission : cmdrankplus.reload, cmdrankplus.rangX.
+
+# Sans (/) les commandes !
