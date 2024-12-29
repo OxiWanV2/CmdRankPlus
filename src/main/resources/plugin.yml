@@ -1,0 +1,13 @@
+name: CmdRankPlus
+version: 1.3
+api-version: '1.20'
+main: com.oxiwan.cmdrankplus.CmdRankPlus
+author: OxiWan
+description: Plugin permettant d'exécuter des commandes personnalisées basées sur les permissions et les rangs.
+
+commands:
+  cmdrankplus:
+    description: Commande principale pour gérer le plugin.
+    usage: /cmdrankplus reload
+    permission: cmdrankplus.reload
+    permission-message: "§cVous n'avez pas la permission d'utiliser cette commande."
